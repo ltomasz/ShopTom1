@@ -1,0 +1,9 @@
+main\java\DataAccess.class
+main\java\Supplier.class
+main\java\DatabaseConnector.class
+main\java\Order.class
+main\java\Customer.class
+main\java\OrderDetails.class
+main\java\PostgresqlProperties.class
+main\java\Main.class
+main\java\Product.class
